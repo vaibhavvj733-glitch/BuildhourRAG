@@ -1,0 +1,1 @@
+**Disclaimer:** This assistant provides factual, source-cited information about mutual fund schemes only. It does not provide investment advice, recommendations, or performance comparisons. Please refer to official scheme documents (KIM/SID/factsheet) before investing.

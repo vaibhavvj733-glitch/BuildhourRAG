@@ -1,0 +1,91 @@
+=== Chunk 0 | source: hdfc-balanced-advantage.md ===
+# HDFC Balanced Advantage Fund Direct Growth
+
+- Category: Hybrid, Dynamic Asset Allocation
+- Riskometer: Very High Risk
+- Expense ratio: 0.78%
+- NAV (01 Oct 2026): ₹546.11
+- Fund size (AUM): ₹1,07,295.79 Cr
+- Minimum SIP: ₹100
+- Minimum lumpsum: ₹100
+- Exit load: 1% on units in excess of 15% if redeemed within 1 year
+- Benchmark: NIFTY 50 Hybrid Composite Debt 50:50 Index
+- Fund manager: Anil Bamboli, Arun Agarwal, Dhruv Muchhal, Nandita Menezes, Gopal Agrawal, Ihab Dalwai
+- Investment objective: long-term capital appreciation/income from a dynamic mix of equity and debt investments.
+- Tax: 20% up to 1 year (equity-oriented); 12.5% beyond 1 year on gains exceeding ₹1.25 lakh.
+
+Source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+
+=== Chunk 1 | source: hdfc-elss.md ===
+# HDFC ELSS Tax Saver Fund Direct Plan Growth
+
+- Category: Equity, ELSS (tax saver)
+- Lock-in: 3 years
+- Riskometer: Very High Risk
+- Expense ratio: 1.21%
+- NAV (01 Oct 2026): ₹1,405.49
+- Fund size (AUM): ₹15,991.78 Cr
+- Minimum SIP: ₹500
+- Minimum lumpsum: ₹500
+- Exit load: Nil
+- Benchmark: NIFTY 500 Total Return Index
+- Fund manager: Amar Kalkundrikar (Dec 2025 – Present), Dhruv Muchhal (Jun 2023 – Present)
+- Investment objective: capital appreciation from predominantly equity & equity related instruments.
+- Tax: LTCG 12.5% beyond 1 year on gains exceeding ₹1.25 lakh.
+
+Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+
+=== Chunk 2 | source: hdfc-flexi-cap.md ===
+# HDFC Flexi Cap Direct Plan Growth
+
+- Category: Equity, Flexi Cap
+- Riskometer: Very High Risk
+- Expense ratio: 0.77%
+- NAV (01 Oct 2026): ₹2,150.08
+- Fund size (AUM): ₹1,13,606.46 Cr
+- Minimum SIP: ₹100
+- Minimum lumpsum: ₹100
+- Exit load: 1% if redeemed within 1 year
+- Benchmark: NIFTY 500 Total Return Index
+- Fund manager: Dhruv Muchhal (Jun 2023 – Present), Amit Ganatra (Feb 2026 – Present)
+- Investment objective: capital appreciation/income from equity & equity related instruments.
+- Tax: 20% up to 1 year; 12.5% beyond 1 year on gains exceeding ₹1.25 lakh.
+
+Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+
+=== Chunk 3 | source: hdfc-large-cap.md ===
+# HDFC Large Cap Fund Direct Growth
+
+- Category: Equity, Large Cap
+- Riskometer: Very High Risk
+- Expense ratio: 1.04%
+- NAV (01 Oct 2026): ₹1,151.92
+- Fund size (AUM): ₹39,933.36 Cr
+- Minimum SIP: ₹100
+- Minimum lumpsum: ₹100
+- Exit load: 1% if redeemed within 1 year
+- Benchmark: NIFTY 100 Total Return Index
+- Fund manager: Rahul Baijal (Jul 2022 – Present), Dhruv Muchhal (Jun 2023 – Present)
+- Investment objective: long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+- Tax: 20% up to 1 year; 12.5% beyond 1 year on gains exceeding ₹1.25 lakh.
+
+Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+
+=== Chunk 4 | source: hdfc-small-cap.md ===
+# HDFC Small Cap Fund Direct Growth
+
+- Category: Equity, Small Cap
+- Riskometer: Very High Risk
+- Expense ratio: 0.79%
+- NAV (01 Oct 2026): ₹155.01
+- Fund size (AUM): ₹41,890.86 Cr
+- Minimum SIP: ₹100
+- Minimum lumpsum: ₹100
+- Exit load: 1% if redeemed within 1 year
+- Benchmark: BSE 250 SmallCap Total Return Index
+- Fund manager: Dhruv Muchhal (Jun 2023 – Present), Chirag Setalvad (Jun 2014 – Present)
+- Investment objective: long-term capital appreciation/income by investing predominantly in Small-Cap companies.
+- Tax: 20% up to 1 year; 12.5% beyond 1 year on gains exceeding ₹1.25 lakh.
+
+Source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+
