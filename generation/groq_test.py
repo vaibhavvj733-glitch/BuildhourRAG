@@ -27,7 +27,7 @@ from vector_store import load_vector_store  # noqa: E402
 from retriever import retrieve_with_scores  # noqa: E402
 from llm import build_prompt  # noqa: E402
 
-GROQ_MODEL = os.getenv("MODEL_NAME") or "openai/gpt-oss-20b"
+GROQ_MODEL = os.getenv("MODEL_NAME") or "qwen/qwen3.8-27b"
 
 
 def main():

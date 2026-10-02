@@ -20,7 +20,7 @@ try:
 except Exception:
     pass
 
-GROQ_MODEL = os.getenv("MODEL_NAME") or "openai/gpt-oss-20b"
+GROQ_MODEL = os.getenv("MODEL_NAME") or "qwen/qwen3.8-27b"
 
 SYSTEM_RULES = (
     "You answer factual questions about mutual funds using ONLY the provided context. "
