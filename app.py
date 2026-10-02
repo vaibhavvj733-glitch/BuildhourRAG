@@ -23,7 +23,7 @@ from retriever import retrieve_with_scores  # noqa: E402
 from groq_llm import generate_answer_groq  # noqa: E402
 
 
-def answer(query, chunks):
+def get_answer(query, chunks):
     """Groq first; fall back to the local model if Groq is unavailable."""
     try:
         return generate_answer_groq(query, chunks)
@@ -182,7 +182,7 @@ def main():
                 with st.spinner("Thinking..."):
                     results = retrieve_with_scores(vs, query, k=2)
                     chunks = [doc for doc, _ in results]
-                    answer = answer(query, chunks)
+                    answer = get_answer(query, chunks)
                 st.markdown('<div class="answer-card">', unsafe_allow_html=True)
                 st.markdown(answer)
                 st.markdown('</div>', unsafe_allow_html=True)
