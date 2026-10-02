@@ -6,6 +6,4 @@ pypdf
 faiss-cpu
 fastembed
 groq
-transformers
-torch
 python-dotenv

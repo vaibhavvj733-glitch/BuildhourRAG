@@ -49,7 +49,17 @@ UPLOAD_DIR = ROOT / "data" / "uploads"
 def get_vector_store():
     if DEFAULT_STORE_PATH.exists():
         return load_vector_store()
-    return None
+    # Auto-build from data/ on first run (e.g., fresh Render deploy)
+    files = sorted(p for p in DATA_DIR.glob("*") if p.is_file() and p.parent == DATA_DIR and p.name != "uploads")
+    if not files:
+        return None
+    docs = load_documents(files)
+    if not docs:
+        return None
+    chunks = chunk_documents(docs)
+    vs = build_vector_store(chunks)
+    save_vector_store(vs)
+    return vs
 
 
 def build_index_from_paths(paths):
